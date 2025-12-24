@@ -7,7 +7,6 @@ This project demonstrates how to build an AI-powered chatbot using **Oracle APEX
 
 The solution showcases how Oracle APEX and Oracle Database can be used as an enterprise AI gateway, where business knowledge remains securely stored in the database and is injected into AI prompts at runtime.
 
-This project was created **after acceptance into the Oracle ACE Apprentice program** and is submitted as a product usage demonstration.
 
 ---
 
