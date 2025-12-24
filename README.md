@@ -1,6 +1,7 @@
+# Oracle APEX AI Chatbot using LLaMA 3 (Ollama) on OCI
 # oracle-apex-llama3-chatbot
 Oracle APEX chatbot integrated with LLaMA 3 using Ollama on OCI Ubuntu VM
-# Oracle APEX AI Chatbot using LLaMA 3 (Ollama) on OCI
+
 
 ## Overview
 This project demonstrates how to build an AI-powered chatbot using **Oracle APEX** integrated with a **LLaMA 3** large language model hosted on an **Oracle Cloud Infrastructure (OCI) Ubuntu compute instance** using **Ollama**.
