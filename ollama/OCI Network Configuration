@@ -1,0 +1,16 @@
+
+Important: OCI Network Configuration (DON’T SKIP)
+
+To allow Oracle APEX → Ollama, you must:
+
+Open OCI Console
+
+Go to Networking → VCN → Security List
+
+Add Ingress Rule:
+
+Source: 0.0.0.0/0 (or your APEX IP)
+
+Port: 11434
+
+Protocol: TCP
